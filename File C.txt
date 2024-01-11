@@ -1,1 +1,2 @@
 File C added in FeatureA branch
+Changes made to FileB
